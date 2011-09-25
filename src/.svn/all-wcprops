@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1171/plugins/gdb/src
+END
+gdb-service.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1170/plugins/gdb/src/gdb-service.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1169/plugins/gdb/src/Makefile.in
+END
+gdb-plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1171/plugins/gdb/src/gdb-plugin.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1169/plugins/gdb/src/Makefile.am
+END
+gdb-service.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1171/plugins/gdb/src/gdb-service.c
+END

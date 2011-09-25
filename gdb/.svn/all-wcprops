@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/1202/plugins/gdb
+END
+gdb.codeslayer-plugin
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1169/plugins/gdb/gdb.codeslayer-plugin
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1202/plugins/gdb/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1169/plugins/gdb/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1169/plugins/gdb/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1169/plugins/gdb/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1184/plugins/gdb/ChangeLog
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1169/plugins/gdb/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1169/plugins/gdb/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1169/plugins/gdb/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1184/plugins/gdb/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1169/plugins/gdb/ltmain.sh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1202/plugins/gdb/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1169/plugins/gdb/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1169/plugins/gdb/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1169/plugins/gdb/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1169/plugins/gdb/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1184/plugins/gdb/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1169/plugins/gdb/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1169/plugins/gdb/install-sh
+END
